@@ -1,5 +1,5 @@
 
-# Receita de Bolo de Chocolate  
+## Receita de Bolo de Chocolate  
 - 2 xícaras de farinha   
 - 3 ovos   
 - 1 xícara de açúcar   
